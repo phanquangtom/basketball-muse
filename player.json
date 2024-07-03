@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Stephen Curry",
+        "team": "Golden State Warrior" ,
+        "image":"curry.jpeg",
+        "birthDate": "3-14-1988",
+        "ppg": 26.4
+    },
+
+    {
+        "id": 2,
+        "name": "Tim Duncan",
+        "team": "San Antonio Spurs",
+        "image": "duncan.jpeg",
+        "birthDate": "4-25-1976",
+        "ppg": 19.0
+    },
+
+    {
+        "id": 3,
+        "name": "Michael Jordan",
+        "team": "Chicago Bulls",
+        "image": "jordan.jpeg",
+        "birthDate": "2-17-1963",
+        "ppg": 30.1
+    },
+
+    {
+        "id": 4,
+        "name": "Lebron James",
+        "team": "Los Angeles Lakers",
+        "image": "lebron.jpeg",
+        "birthDate": "12-30-1984",
+        "ppg": 27.1
+    },
+
+    {
+        "id": 5,
+        "name": "Shaquille O'Neal",
+        "team": "Los Angeles Lakers",
+        "image":"shaq.jpeg",
+        "birthDate": "3-6-1972",
+        "ppg": 23.7
+    }
+
+]
